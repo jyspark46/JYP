@@ -14,3 +14,7 @@ int main() {
 	
 	return 0;
 }
+
+void sub4(){
+	printf("16학번 이지훈 입니다");
+}
