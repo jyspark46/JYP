@@ -14,3 +14,10 @@ int main() {
 	
 	return 0;
 }
+
+
+void sub2(){
+
+	printf("집가고싶다"\n");	
+
+}
